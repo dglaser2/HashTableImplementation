@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/david/Documents/Work/Job Search/Software Engineering/Coding Interviews/HashTableImplementation/main.cpp
+iostream
+-
+list
+-
+cstring
+-
+
